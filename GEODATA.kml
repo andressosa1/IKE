@@ -1,467 +1,388 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="ike" id="ike">
-	<SimpleField name="lugar" type="string"></SimpleField>
-	<SimpleField name="lat" type="float"></SimpleField>
-	<SimpleField name="long" type="float"></SimpleField>
+<Schema name="GEODATA" id="GEODATA">
+	<SimpleField name="LAT" type="float"></SimpleField>
+	<SimpleField name="LONG" type="float"></SimpleField>
 </Schema>
-<Folder><name>ike</name>
+<Folder><name>GEODATA</name>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2636043</SimpleData>
+		<SimpleData name="LONG">-75.5542479</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5542479,6.2636043</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2494871</SimpleData>
+		<SimpleData name="LONG">-75.5915189</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5915189,6.2494871</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.238776</SimpleData>
+		<SimpleData name="LONG">-75.5393973</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5393973,6.238776</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2766191</SimpleData>
+		<SimpleData name="LONG">-75.5493419</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5493419,6.2766191</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2884158</SimpleData>
+		<SimpleData name="LONG">-75.5819749</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5819749,6.2884158</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BARRANQUILLA</SimpleData>
-		<SimpleData name="lat">11.004107</SimpleData>
-		<SimpleData name="long">-74.806981</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2795954</SimpleData>
+		<SimpleData name="LONG">-75.5478392</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-74.806981,11.004107</coordinates></Point>
+      <Point><coordinates>-75.5478392,6.2795954</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.276943</SimpleData>
+		<SimpleData name="LONG">-75.5643121</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5643121,6.276943</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">SAN VICENTE CONCEPCION</SimpleData>
-		<SimpleData name="lat">-36.8088</SimpleData>
-		<SimpleData name="long">-73.064908</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2887763</SimpleData>
+		<SimpleData name="LONG">-75.5646617</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-73.064908,-36.8088</coordinates></Point>
+      <Point><coordinates>-75.5646617,6.2887763</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2472193</SimpleData>
+		<SimpleData name="LONG">-75.5918914</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5918914,6.2472193</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">APARTADÃ“</SimpleData>
-		<SimpleData name="lat">7.882761</SimpleData>
-		<SimpleData name="long">-76.624692</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2820586</SimpleData>
+		<SimpleData name="LONG">-75.5458362</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-76.624692,7.882761</coordinates></Point>
+      <Point><coordinates>-75.5458362,6.2820586</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2512997</SimpleData>
+		<SimpleData name="LONG">-75.5601251</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5601251,6.2512997</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CAÃ‘AS GORDAS</SimpleData>
-		<SimpleData name="lat">6.750597</SimpleData>
-		<SimpleData name="long">-76.02611</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2340411</SimpleData>
+		<SimpleData name="LONG">-75.6021638</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-76.02611,6.750597</coordinates></Point>
+      <Point><coordinates>-75.6021638,6.2340411</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BARRANQUILLA</SimpleData>
-		<SimpleData name="lat">11.004107</SimpleData>
-		<SimpleData name="long">-74.806981</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2386623</SimpleData>
+		<SimpleData name="LONG">-75.5443526</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-74.806981,11.004107</coordinates></Point>
+      <Point><coordinates>-75.5443526,6.2386623</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.1865463</SimpleData>
+		<SimpleData name="LONG">-75.6525604</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.6525604,6.1865463</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">PUERTO BERRIO</SimpleData>
-		<SimpleData name="lat">6.477755</SimpleData>
-		<SimpleData name="long">-74.4088</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2394894</SimpleData>
+		<SimpleData name="LONG">-75.5710124</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-74.4088,6.477755</coordinates></Point>
+      <Point><coordinates>-75.5710124,6.2394894</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">APARTADO  </SimpleData>
-		<SimpleData name="lat">7.882761</SimpleData>
-		<SimpleData name="long">-76.624692</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2317977</SimpleData>
+		<SimpleData name="LONG">-75.5564005</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-76.624692,7.882761</coordinates></Point>
+      <Point><coordinates>-75.5564005,6.2317977</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">PUERTO BERRIO</SimpleData>
-		<SimpleData name="lat">6.477755</SimpleData>
-		<SimpleData name="long">-74.4088</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.1750848</SimpleData>
+		<SimpleData name="LONG">-75.643219</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-74.4088,6.477755</coordinates></Point>
+      <Point><coordinates>-75.643219,6.1750848</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2543709</SimpleData>
+		<SimpleData name="LONG">-75.560574</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.560574,6.2543709</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BARBOSA</SimpleData>
-		<SimpleData name="lat">6.438791</SimpleData>
-		<SimpleData name="long">-75.334099</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2477397</SimpleData>
+		<SimpleData name="LONG">-75.6098859</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.334099,6.438791</coordinates></Point>
+      <Point><coordinates>-75.6098859,6.2477397</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">ITAGUI</SimpleData>
-		<SimpleData name="lat">6.167568</SimpleData>
-		<SimpleData name="long">-75.614671</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2603146</SimpleData>
+		<SimpleData name="LONG">-75.553328</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.614671,6.167568</coordinates></Point>
+      <Point><coordinates>-75.553328,6.2603146</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">RIONEGRO</SimpleData>
-		<SimpleData name="lat">-40.826143</SimpleData>
-		<SimpleData name="long">-63.026634</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2800894</SimpleData>
+		<SimpleData name="LONG">-75.5997816</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-63.026634,-40.826143</coordinates></Point>
+      <Point><coordinates>-75.5997816,6.2800894</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CALDAS</SimpleData>
-		<SimpleData name="lat">5.29826</SimpleData>
-		<SimpleData name="long">-75.247906</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2516025</SimpleData>
+		<SimpleData name="LONG">-75.5585253</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.247906,5.29826</coordinates></Point>
+      <Point><coordinates>-75.5585253,6.2516025</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2048414</SimpleData>
+		<SimpleData name="LONG">-75.5996174</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5996174,6.2048414</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">ITAGUI</SimpleData>
-		<SimpleData name="lat">6.167568</SimpleData>
-		<SimpleData name="long">-75.614671</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2473008</SimpleData>
+		<SimpleData name="LONG">-75.6102821</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.614671,6.167568</coordinates></Point>
+      <Point><coordinates>-75.6102821,6.2473008</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">APARTADÃ“</SimpleData>
-		<SimpleData name="lat">7.882761</SimpleData>
-		<SimpleData name="long">-76.624692</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2934889</SimpleData>
+		<SimpleData name="LONG">-75.5978747</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-76.624692,7.882761</coordinates></Point>
+      <Point><coordinates>-75.5978747,6.2934889</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">RIONEGRO</SimpleData>
-		<SimpleData name="lat">-40.826143</SimpleData>
-		<SimpleData name="long">-63.026634</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.3012354</SimpleData>
+		<SimpleData name="LONG">-75.5550249</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-63.026634,-40.826143</coordinates></Point>
+      <Point><coordinates>-75.5550249,6.3012354</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2684934</SimpleData>
+		<SimpleData name="LONG">-75.5736806</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5736806,6.2684934</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2170372</SimpleData>
+		<SimpleData name="LONG">-75.59671</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.59671,6.2170372</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2604631</SimpleData>
+		<SimpleData name="LONG">-75.5553578</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5553578,6.2604631</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.230022</SimpleData>
+		<SimpleData name="LONG">-75.60549</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.60549,6.230022</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BARRANQUILLA</SimpleData>
-		<SimpleData name="lat">11.004107</SimpleData>
-		<SimpleData name="long">-74.806981</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2881878</SimpleData>
+		<SimpleData name="LONG">-75.5828062</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-74.806981,11.004107</coordinates></Point>
+      <Point><coordinates>-75.5828062,6.2881878</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.301227</SimpleData>
+		<SimpleData name="LONG">-75.5552257</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5552257,6.301227</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.1953687</SimpleData>
+		<SimpleData name="LONG">-75.5909485</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5909485,6.1953687</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.259257</SimpleData>
+		<SimpleData name="LONG">-75.5787434</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5787434,6.259257</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2387898</SimpleData>
+		<SimpleData name="LONG">-75.5562551</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5562551,6.2387898</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2442674</SimpleData>
+		<SimpleData name="LONG">-75.5641075</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5641075,6.2442674</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2512155</SimpleData>
+		<SimpleData name="LONG">-75.5747074</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5747074,6.2512155</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2197589</SimpleData>
+		<SimpleData name="LONG">-75.6079785</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.6079785,6.2197589</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">ITAGUI</SimpleData>
-		<SimpleData name="lat">6.167568</SimpleData>
-		<SimpleData name="long">-75.614671</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2401078</SimpleData>
+		<SimpleData name="LONG">-75.580624</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.614671,6.167568</coordinates></Point>
+      <Point><coordinates>-75.580624,6.2401078</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BELLO</SimpleData>
-		<SimpleData name="lat">36.104001</SimpleData>
-		<SimpleData name="long">-95.856888</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2258598</SimpleData>
+		<SimpleData name="LONG">-75.5860498</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-95.856888,36.104001</coordinates></Point>
+      <Point><coordinates>-75.5860498,6.2258598</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">AMAGA</SimpleData>
-		<SimpleData name="lat">6.037113</SimpleData>
-		<SimpleData name="long">-75.702277</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2262675</SimpleData>
+		<SimpleData name="LONG">-75.5735092</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.702277,6.037113</coordinates></Point>
+      <Point><coordinates>-75.5735092,6.2262675</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2744335</SimpleData>
+		<SimpleData name="LONG">-75.5647353</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5647353,6.2744335</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">YARUMAL  </SimpleData>
-		<SimpleData name="lat">6.961969</SimpleData>
-		<SimpleData name="long">-75.419069</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2490807</SimpleData>
+		<SimpleData name="LONG">-75.5803028</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.419069,6.961969</coordinates></Point>
+      <Point><coordinates>-75.5803028,6.2490807</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2010561</SimpleData>
+		<SimpleData name="LONG">-75.5720423</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.5720423,6.2010561</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">MEDELLIN</SimpleData>
-		<SimpleData name="lat">6.244203</SimpleData>
-		<SimpleData name="long">-75.581212</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2474547</SimpleData>
+		<SimpleData name="LONG">-75.5855371</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.581212,6.244203</coordinates></Point>
+      <Point><coordinates>-75.5855371,6.2474547</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">QUBDÃ“ CHOCÃ“</SimpleData>
-		<SimpleData name="lat">5.695633</SimpleData>
-		<SimpleData name="long">-76.649812</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2693828</SimpleData>
+		<SimpleData name="LONG">-75.5556027</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-76.649812,5.695633</coordinates></Point>
+      <Point><coordinates>-75.5556027,6.2693828</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">TURBO</SimpleData>
-		<SimpleData name="lat">35.239658</SimpleData>
-		<SimpleData name="long">-81.317504</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2597401</SimpleData>
+		<SimpleData name="LONG">-75.5623401</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-81.317504,35.239658</coordinates></Point>
+      <Point><coordinates>-75.5623401,6.2597401</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">GUATAPE</SimpleData>
-		<SimpleData name="lat">6.231137</SimpleData>
-		<SimpleData name="long">-75.153467</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.3012457</SimpleData>
+		<SimpleData name="LONG">-75.5547768</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.153467,6.231137</coordinates></Point>
+      <Point><coordinates>-75.5547768,6.3012457</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">ENVIGADO</SimpleData>
-		<SimpleData name="lat">6.169611</SimpleData>
-		<SimpleData name="long">-75.587364</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.1869111</SimpleData>
+		<SimpleData name="LONG">-75.6525573</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.587364,6.169611</coordinates></Point>
+      <Point><coordinates>-75.6525573,6.1869111</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2568615</SimpleData>
+		<SimpleData name="LONG">-75.549949</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.549949,6.2568615</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2792538</SimpleData>
+		<SimpleData name="LONG">-75.556978</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.556978,6.2792538</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">RIONEGRO</SimpleData>
-		<SimpleData name="lat">-40.826143</SimpleData>
-		<SimpleData name="long">-63.026634</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2367517</SimpleData>
+		<SimpleData name="LONG">-75.5334954</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-63.026634,-40.826143</coordinates></Point>
+      <Point><coordinates>-75.5334954,6.2367517</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">BARBOSA</SimpleData>
-		<SimpleData name="lat">6.438791</SimpleData>
-		<SimpleData name="long">-75.334099</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.2091733</SimpleData>
+		<SimpleData name="LONG">-75.5666399</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.334099,6.438791</coordinates></Point>
+      <Point><coordinates>-75.5666399,6.2091733</coordinates></Point>
   </Placemark>
   <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">GIRARDOTA</SimpleData>
-		<SimpleData name="lat">6.378322</SimpleData>
-		<SimpleData name="long">-75.449517</SimpleData>
+	<ExtendedData><SchemaData schemaUrl="#GEODATA">
+		<SimpleData name="LAT">6.1828583</SimpleData>
+		<SimpleData name="LONG">-75.6434976</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.449517,6.378322</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">RIONEGRO</SimpleData>
-		<SimpleData name="lat">-40.826143</SimpleData>
-		<SimpleData name="long">-63.026634</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-63.026634,-40.826143</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CALDAS</SimpleData>
-		<SimpleData name="lat">5.29826</SimpleData>
-		<SimpleData name="long">-75.247906</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.247906,5.29826</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#ike">
-		<SimpleData name="lugar">CARTAGENA</SimpleData>
-		<SimpleData name="lat">10.391049</SimpleData>
-		<SimpleData name="long">-75.479426</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-75.479426,10.391049</coordinates></Point>
+      <Point><coordinates>-75.6434976,6.1828583</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
